@@ -7,5 +7,15 @@ This is a BloodBank management system which is created using java and SQL with N
 # Credentials
 
 The username and password for both database and app are same 
-- username: root
-- password: shashank
+- username: "root"
+- password: "shashank"
+# Steps For Run The Project
+
+Install NetBeans IDE
+Install MySQL Server
+Assign MySQL Server password to "shashank" to make this project run directly, If u want to use differnt password you have to change the password in all the source files of the project
+Open the project from NetBeans IDE
+Now head over to Service tab and right click on database and click "New Connection"
+In Driver dropdown choose "MySQL (Connector/J driver)"
+In Driver File(s) choose the path of connector, then press next and enter the password (For verifying everything is going right press test connection) on successful connection click next->next->finish , You are not connected to MySQL Database
+If you want to connect to MySQL Database on future runs you can goto the "services" tab expand "databses" then right click on "jdbc:<connector url>" and select "connect" give credentials of MySQL Database Server and now you are connected
