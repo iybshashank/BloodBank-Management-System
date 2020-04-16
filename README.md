@@ -9,6 +9,7 @@ This is a BloodBank management system which is created using java and SQL with N
 The username and password for both database and app are same 
 - username: "root"
 - password: "shashank"
+
 # Steps To Run The Project (For Beginners)
 
 - Install NetBeans IDE
