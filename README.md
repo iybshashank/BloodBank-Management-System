@@ -9,7 +9,7 @@ This is a BloodBank management system which is created using java and SQL with N
 The username and password for both database and app are same 
 - username: "root"
 - password: "shashank"
-# Steps For Run The Project
+# Steps To Run The Project (For Beginners)
 
 - Install NetBeans IDE
 - Install MySQL Server
@@ -23,3 +23,20 @@ The username and password for both database and app are same
 - Right click on tables and choose "execute command" in the editor copy paste the code in SQL Files->Tables.sql
 - Right click on views and choose "execute command" in the editor copy paste the code in SQL Files->View.sql
 - Now if all the steps are performed correctly, the project can to build and run without any errors.
+
+# Credits
+
+UI is inspired by
+- <b> KeepToo </n>
+  - https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q
+  - https://github.com/k33ptoo/
+  - https://www.facebook.com/keeptoo.ui.ux
+  
+  
+# My Social Links
+
+- https://www.instagram.com/iyb.shashank
+- https://twitter.com/iybshashank 
+- https://github.com/iybshashank
+- https://www.linkedin.com/in/iybshashank/
+  
